@@ -1,2 +1,2 @@
 # MyDeeplearning
- 本科《机器学习》上机实践:laughing:
+ 本科《深度学习》上机实践:laughing:
